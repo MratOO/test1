@@ -5,4 +5,4 @@ s = 'supamen'
 '''SSSSSSSSSSSSSS'''
 s1 = 1
 s2 = 2
-# sHI EST SHI HULI
+# KAK ZHE TAk

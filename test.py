@@ -3,5 +3,5 @@ c = 1
 w = 2
 s = 'supamen'
 '''SSSSSSSSSSSSSS'''
-s = 1
-ss = 2
+s1 = 1
+s2 = 2

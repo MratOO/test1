@@ -4,3 +4,4 @@ w = 2
 s = 'supamen'
 '''SSSSSSSSSSSSSS'''
 # ZARABOTAI
+# NICHEGO 

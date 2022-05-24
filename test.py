@@ -5,3 +5,4 @@ s = 'supamen'
 '''SSSSSSSSSSSSSS'''
 # ZARABOTAI
 # NICHEGO 
+# i she nichego

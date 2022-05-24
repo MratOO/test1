@@ -6,3 +6,4 @@ s = 'supamen'
 # ZARABOTAI
 # NICHEGO 
 # i she nichego
+# da
